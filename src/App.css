@@ -24,6 +24,14 @@
   color: white;
 }
 
+.mainBoard {
+  background: url(https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/dhtvjvhiitkqpub5qfgm/best-sneakers-of-2020-so-far) no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 1000px;
+  margin-bottom: 5em;
+}
+
 .App-link {
   color: #61dafb;
 }
